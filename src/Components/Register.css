@@ -1,0 +1,99 @@
+.Register {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.center {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	gap: 30px;
+	padding: 25px;
+	background-color: #292949;
+	margin-bottom: 50px;
+	border-radius: 10px;
+}
+.center h1 {
+	font-size: 22px;
+	color: white;
+}
+.form {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	gap: 25px;
+	width: 100%;
+}
+
+.form input {
+	background-color: #33324e;
+	width: 100%;
+	padding: 7px;
+	border: 1px solid #8f8fe638;
+	border-radius: 60px;
+	color: white;
+}
+
+.form input::placeholder {
+	color: #8f8fe6;
+}
+
+.form button {
+	width: 100%;
+	padding: 10px;
+	border-radius: 50px;
+	border: none;
+	background-color: #8c8ceb;
+	color: white;
+	font-weight: bold;
+	font-size: 14px;
+	transition: 0.5s;
+}
+.form button:hover {
+	background-color: #6868c2;
+	transform: scale(1.05);
+}
+
+ul {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	overflow: scroll;
+	height: 350px;
+	overflow-x: hidden;
+}
+ul::-webkit-scrollbar {
+	width: 5px;
+}
+
+ul::-webkit-scrollbar-track {
+	background-color: #e4e4e4;
+	border-radius: 100px;
+}
+
+ul::-webkit-scrollbar-thumb {
+	background-color: #8c8ceb;
+	border-radius: 100px;
+}
+.map {
+	background-color: #292949;
+	border-radius: 10px;
+	padding: 10px 0px 10px 9px;
+	font-size: 13px;
+	font-weight: bold;
+	color: white;
+	position: relative;
+}
+
+.remove {
+	position: absolute;
+	top: 22px;
+	right: 10px;
+}
+/* -------------------------------- */
+.form input[type='number']::-webkit-inner-spin-button,
+.form input[type='number']::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
