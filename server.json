@@ -1,52 +1,16 @@
 {
-	"users": [
-		{
-			"id": "4411",
-			"name": "Eliza",
-			"age": "22",
-			"email": "Elizaguimarques@gmail.com"
-		},
-		{
-			"id": "4411",
-			"name": "Eliza",
-			"age": "22",
-			"email": "Elizaguimarques@gmail.com"
-		},
-		{
-			"id": "4411",
-			"name": "Eliza",
-			"age": "22",
-			"email": "Elizaguimarques@gmail.com"
-		},
-		{
-			"id": "4411",
-			"name": "Eliza",
-			"age": "22",
-			"email": "Elizaguimarques@gmail.com"
-		},
-		{
-			"id": "4411",
-			"name": "Eliza",
-			"age": "22",
-			"email": "Elizaguimarques@gmail.com"
-		},
-		{
-			"id": "4411",
-			"name": "Eliza",
-			"age": "22",
-			"email": "Elizaguimarques@gmail.com"
-		},
-		{
-			"id": "4411",
-			"name": "Eliza",
-			"age": "22",
-			"email": "Elizaguimarques@gmail.com"
-		},
-		{
-			"id": "4411",
-			"name": "Eliza",
-			"age": "22",
-			"email": "Elizaguimarques@gmail.com"
-		}
-	]
+  "users": [
+    {
+      "id": "2457",
+      "name": "Ravel",
+      "age": "22",
+      "email": "ravelxc@gmail.com"
+    },
+    {
+      "id": "6bce",
+      "name": "Eliza",
+      "age": "20",
+      "email": "eliza.test@gmail.com"
+    }
+  ]
 }
